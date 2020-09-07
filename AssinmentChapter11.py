@@ -8,5 +8,3 @@ for x in lst:
     x=int(x)
     sum=sum+x
 print(sum)
-
-**************************
